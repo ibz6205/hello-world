@@ -1,8 +1,8 @@
 ---
 name: Issue report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: "[Platform Bug]"
+labels: bug
 assignees: ''
 
 ---
@@ -33,6 +33,13 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+
+**TV(please complete the following information):**
+ - Device: [e.g. SmartTV or SmartMonitor Etc.]
+ - Purchase date information: 2024.04
+ - OS version: [e.g. Tizen8.0 or Tizen9.0]
+ - SDK version: [e.g Tizen SDK 5.0 or Tizen SDK 6.0]
+
 
 **Additional context**
 Add any other context about the problem here.
